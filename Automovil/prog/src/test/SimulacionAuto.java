@@ -6,6 +6,7 @@ import auto.Automovil;
 import auto.Conexion;
 import auto.Log;
 
+// Prueba de pull request
 /**
  * Clase SimulacionAuto.
  *
